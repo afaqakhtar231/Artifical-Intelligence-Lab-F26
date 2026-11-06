@@ -1,7 +1,4 @@
-"""Lab 1 - Section 1.5: Symbolic vs Threshold Comparison."""
 
-
-def symbolic(score, complete):
     return "Review" if complete and score >= 70 else "Hold"
 
 
